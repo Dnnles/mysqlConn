@@ -1,7 +1,7 @@
 #include <mysql.h>
 #include <stdio.h>
 
-#define IP_ADDR "123.56.85.70"
+#define IP_ADDR "127.0.0.1"
 #define USER_NAME "root"
 #define DB_PASSWORD "xianzhi1012"
 #define DB_NAME "book"
